@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Vanisha</h1>
+<h1>Hi 👋 I'm Vanisha</h1>
 <p align="left">🔭 I’m currently pursuing Computer Science and Engineering</p>
 <p align="left">🌱 I'm currently learning Data Structures and Algorithms</p>
 
